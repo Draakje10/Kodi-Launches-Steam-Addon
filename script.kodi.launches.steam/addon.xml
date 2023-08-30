@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="script.kodi.launches.steam" name="Steam" version="1.0.0" provider-name="BrosMakingSoftware">
+<addon id="script.kodi.launches.steam" name="Steam" version="1.0.1" provider-name="Draakje10">
 	<requires>
-		<import addon="xbmc.python" version="2.25.0"/>
+		<import addon="xbmc.python" version="3.11.2"/>
 	</requires>
 	<extension point="xbmc.python.script" library="addon.py">
 		<provides>executable</provides>
@@ -14,10 +14,10 @@
 		<description lang="es">Addon de Kodi para iniciar Steam.[CR]Steam es la mayor tienda en línea de juegos y sus medios relacionados para Windows, MacOS y Linux. Ofrece funciones de juego multijugador y multiplataforma, retransmisión en casa, guardados en la nube, voz y mensajería durante el juego, realidad virtual, mods para juegos, equipos, dispositivos y una inmensa y activa comunidad de jugadores. Para instalar Steam, visite http://store.steampowered.com</description>
 		<license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
 		<language>en es</language>
-		<source>https://github.com/BrosMakingSoftware/Kodi-Launches-Steam-Addon/</source>
-		<website>https://github.com/BrosMakingSoftware/Kodi-Launches-Steam-Addon/blob/master/README.md#kodi-launches-steam-addon</website>
+		<source>https://github.com/Draakje10/Kodi-Launches-Steam-Addon/</source>
+		<website>https://github.com/Draakje10/Kodi-Launches-Steam-Addon/blob/master/README.md#kodi-launches-steam-addon</website>
 		<forum></forum>
-		<email>diego.hernandez.perez.cr@gmail.com</email>
+		<email>draakje11111@gmail.com</email>
 		<news></news>
 		<assets>
 			<icon>icon.png</icon>
